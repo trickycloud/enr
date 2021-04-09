@@ -54,3 +54,4 @@ urllib3==1.26.1
 Werkzeug==1.0.1
 wrapt==1.12.1
 WTForms==2.3.3
+tflite_runtime-2.5.0-cp38-cp38-win_amd64.whl

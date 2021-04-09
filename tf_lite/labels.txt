@@ -1,0 +1,14 @@
+Apple
+Banana 
+Cabbage 
+Carrot 
+Grape 
+Mango 
+Orange 
+Pineapple 
+Pomegranate 
+Potato 
+Tomato 
+Watermelon 
+Strawberry
+
